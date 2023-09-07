@@ -28,3 +28,4 @@ def func_3(message1, message2):
 func_2("hello")
 print(".................................")
 func_3("hi", "Bye")
+#Toi da chinh sua o day 
